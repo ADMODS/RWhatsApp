@@ -1,1 +1,1 @@
-RWhatsApp 2.1
+RWhatsApp v2.2
